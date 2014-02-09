@@ -12,5 +12,6 @@ This project demonstrates the use of intels intrinsics, parallelization, registe
 Project details can be found here: 
 
 https://inst.eecs.berkeley.edu/~cs61c/fa13/proj/03/
+
 https://inst.eecs.berkeley.edu/~cs61c/fa13/proj/05
 
