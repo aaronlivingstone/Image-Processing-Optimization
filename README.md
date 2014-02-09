@@ -9,7 +9,6 @@ Optimization of a formula for doing 2D convolution on images. 2D convolution is 
 
 This project demonstrates the use of intels intrinsics, parallelization, register caching, and other optimizations. This project also demonstrates working with a partner, and through understanding of the differences between heap, stack, and static memory.
 
-Project details can be found here:
-https://inst.eecs.berkeley.edu/~cs61c/fa13/proj/03/
-https://inst.eecs.berkeley.edu/~cs61c/fa13/proj/05
+Project details can be found here: https://inst.eecs.berkeley.edu/~cs61c/fa13/proj/03/
+and here: https://inst.eecs.berkeley.edu/~cs61c/fa13/proj/05
 
